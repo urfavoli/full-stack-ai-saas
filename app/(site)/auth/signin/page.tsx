@@ -1,11 +1,12 @@
 import Signin from "@/components/Auth/Signin";
 import { Metadata } from "next";
 
+
 export const metadata: Metadata = {
-  title: "Login Page - Solid SaaS Boilerplate",
+  title: "Login Page ",
 
   // other metadata
-  description: "This is Login page for Startup Pro"
+  description: "This is the Login page "
 };
 
 const SigninPage = () => {
